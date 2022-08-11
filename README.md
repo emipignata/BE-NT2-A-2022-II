@@ -16,3 +16,4 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Hacer un Pull request de sus respositorios (hechos mediante el fork) a la rama `master` del repositorio de la clase.
 
 ## Listado de participantes:
+emiliano pignata, emipignata
