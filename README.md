@@ -20,3 +20,4 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Francisco Vlcek, *franvlcek*
 - Daniel Guzman, *dguzman-ort*
 - Nicolas Wainschenker, *nicovejero*
+- Leonardo Buezo, *leobuezo*
