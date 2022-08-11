@@ -17,7 +17,9 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 ## Listado de participantes:
 
+- Sebastian Maitini  @smaitini
 - Francisco Vlcek, *franvlcek*
 - Daniel Guzman, *dguzman-ort*
 - Nicolas Wainschenker, *nicovejero*
+- emiliano pignata, emipignata
 - Leonardo Buezo, *leobuezo*
