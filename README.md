@@ -18,9 +18,10 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 ## Listado de participantes:
 
-- Sebastian Maitini @smaitini
-- Francisco Vlcek, _franvlcek_
-- Daniel Guzman, _dguzman-ort_
-- Nicolas Wainschenker, _nicovejero_
+- Emanuel Damian Caputo Blason, *EmaCaputo*
+- Sebastian Maitini  @smaitini
+- Francisco Vlcek, *franvlcek*
+- Daniel Guzman, *dguzman-ort*
+- Nicolas Wainschenker, *nicovejero*
 - emiliano pignata, emipignata
 - Michelle de Villemor Ticchetti, _MichelleTicchetti_
