@@ -24,4 +24,5 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Daniel Guzman, *dguzman-ort*
 - Nicolas Wainschenker, *nicovejero*
 - emiliano pignata, emipignata
+- Dardo Helu, Dardologo
 - Michelle de Villemor Ticchetti, _MichelleTicchetti_
