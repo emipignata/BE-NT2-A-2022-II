@@ -27,6 +27,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Andres Fiorito, *whosoeverHoldsThisHammer*
 - Ivan Stecki, *IvanSte99*
 - Nicolas Wainschenker, *nicovejero*
+- Juan Cruz Romero Garcia, *jcruzrg*
 - emiliano pignata, emipignata
 - Leonardo Buezo, *leobuezo*, leobuezo@gmail.com
 - Dardo Helu, Dardologo
