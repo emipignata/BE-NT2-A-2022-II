@@ -23,6 +23,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Sebastian Maitini  @smaitini
 - Francisco Vlcek, *franvlcek*
 - Daniel Guzman, *dguzman-ort*
+- Maximiliano Schiavello, *maxischiavello*
 - Andres Fiorito, *whosoeverHoldsThisHammer*
 - Ivan Stecki, *IvanSte99*
 - Nicolas Wainschenker, *nicovejero*
