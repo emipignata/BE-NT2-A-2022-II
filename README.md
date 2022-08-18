@@ -22,6 +22,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Sebastian Maitini  @smaitini
 - Francisco Vlcek, *franvlcek*
 - Daniel Guzman, *dguzman-ort*
+- Ivan Stecki, *IvanSte99*
 - Nicolas Wainschenker, *nicovejero*
 - emiliano pignata, emipignata
 - Leonardo Buezo, *leobuezo*, leobuezo@gmail.com
