@@ -18,6 +18,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 ## Listado de participantes:
 
+- Nestor Eduardo Aguirre, _neduardoaguirre_
 - Emanuel Damian Caputo Blason, *EmaCaputo*
 - Sebastian Maitini  @smaitini
 - Francisco Vlcek, *franvlcek*
