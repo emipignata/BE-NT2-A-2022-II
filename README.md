@@ -16,8 +16,9 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
   - git push origin <nombre_rama>
 - Hacer un Pull request de sus respositorios (hechos mediante el fork) a la rama `master` del repositorio de la clase.
 
-## Listado de participantes:
 
+## Listado de participantes:
+- Gabriel Carlos Angella, gcangella
 - Nestor Eduardo Aguirre, _neduardoaguirre_
 - Emanuel Damian Caputo Blason, *EmaCaputo*
 - Sebastian Maitini  @smaitini
