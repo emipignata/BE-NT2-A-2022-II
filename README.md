@@ -33,4 +33,5 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Leonardo Buezo, *leobuezo*, leobuezo@gmail.com
 - Dardo Helu, Dardologo
 - Michelle de Villemor Ticchetti, _MichelleTicchetti_
+- Jose Rafael Lara Gregorio, *joserafaellara*
 - Juan Manuel Campagna, *JuanCampagna*
